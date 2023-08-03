@@ -19,8 +19,8 @@ fi
 mkdir /app/opencex -p
 cd /app/opencex || exit
 git clone https://github.com/olimptraid8/OpenCEX-backend-master.git ./backend
-git clone https://github.com/olimptraid8/OpenCEX-frontend-master.git ./frontend
-git clone https://github.com/olimptraid8/OpenCEX-static.git ./nuxt
+git clone https://github.com/olimptraid8/OpenCEX-frontend-master.git ./frontend2
+git clone https://github.com/olimptraid8/OpenCEX-static.git ./nuxt2
 git clone https://github.com/olimptraid8/OpenCEX-JS-admin-master.git ./admin
 
 echo "`cat <<YOLLOPUKKI
